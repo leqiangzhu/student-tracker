@@ -6,7 +6,7 @@ public class helloword {
 
         int [] nums={1,2,4,69,7,8};
 
-        System.out.println("hello SB");
+        System.out.println("hello World");
         System.out.println(a+b);
         System.out.println(nums[3]);
 
